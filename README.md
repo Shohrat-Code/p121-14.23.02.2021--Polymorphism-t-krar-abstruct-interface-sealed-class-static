@@ -1,4 +1,4 @@
-# p121-14.23.02.2021--Polymorphism-t-krar-abstruct-interface-sealed-class-static
+# p121-14.23.02.2021-Polymorphism-tekrar-abstruct-interface-sealed-class-static
 
 ### Tapşırıq.
 
